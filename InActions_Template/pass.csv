@@ -1,0 +1,11 @@
+client_id,{insert_id}
+client_secret,{insert_secret}
+user,none
+key_path,none
+password,none
+service_account_email,none
+user_email,none
+google_spreadsheet,{insert_spreadsheet_id}
+tender_websearch,{link_to_tender_websearch}
+email,none
+tender_website,none
