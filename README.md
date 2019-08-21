@@ -29,7 +29,7 @@ UiPath Robot which is searching updates on the platform with tenders  and collec
 
 * After downloading repository run UiPath Studio and choose the project folder. For more information see the official website of UiPath <https://www.uipath.com/>.
 
-* Rename folder <InActions_Template> to <InActions>.
+* Rename file `pass.csv.sample` at InActions folder to `pass.csv`.
 
 * In `pass.csv` insert required fields. Note: in this version script works only with <zakupki.gov.ru>.
 

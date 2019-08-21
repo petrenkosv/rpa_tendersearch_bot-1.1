@@ -4,9 +4,7 @@
 .local/PackageCache.json
 .local/TenderSearch-1.0.nuget.props
 client_id.json
-InActions/PassKeysUpload.xaml
-InActions/PassKeysUpload_old.xaml
-test/test.csv
-test/UpFolderTest.xaml
 InActions/pass.csv
 .local/ProjectSettings.json
+.screenshots/*
+test/*
