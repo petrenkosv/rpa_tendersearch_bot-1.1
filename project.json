@@ -1,5 +1,5 @@
 {
-  "name": "TenderSearch-1.0",
+  "name": "TenderSearch-1.1",
   "description": "UiPath Robot which is searching updates on the platform with tenders  and collects new updates to the Google Sheets",
   "main": "Main.xaml",
   "dependencies": {
@@ -12,7 +12,7 @@
   },
   "schemaVersion": "3.2",
   "studioVersion": "19.6.0.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.1.0",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
