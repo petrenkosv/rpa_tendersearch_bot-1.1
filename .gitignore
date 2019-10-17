@@ -1,10 +1,6 @@
 
-.local/AllDependencies.json
-.local/nuget.cache
-.local/PackageCache.json
-.local/TenderSearch-1.0.nuget.props
-client_id.json
-InActions/pass.csv
-.local/ProjectSettings.json
+.local/*
 .screenshots/*
 test/*
+client_id.json
+InActions/pass.csv
