@@ -58,4 +58,4 @@ UiPath Robot which is searching updates on the platform with tenders  and collec
 
 * If you want to be informed about new releases of this project, push the <star> button above this page.
 
-* If you have a concrete bug report for this script, please see the Issues section for bug reporting at <https://github.com/petrenkosv/rpa_tendersearch_bot-1.0/issues>.
+* If you have a concrete bug report for this script, please see the Issues section for bug reporting at <https://github.com/petrenkosv/rpa_tendersearch_bot-1.1/issues>.
